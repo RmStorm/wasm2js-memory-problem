@@ -1,0 +1,13 @@
+{
+  "name": "wasm2js-memory-problem",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A small reproducible example of a memory issue in wasm2js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
